@@ -2,7 +2,7 @@ const express = require('express')
 const cors = require('cors')
 const bodyParser = require('body-parser')
 
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjo1LCJwaV9pZCI6MjYsImlhdCI6MTU3MTY3NjA2NywiZXhwIjoxNTc0MjY4MDY3fQ.0X3v6oaq5Bu1eoNRpOQDz87wSAzkByooeCWyHolSZqo'
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMCwicGlfaWQiOjYyLCJpYXQiOjE1NzE3NzQxMTksImV4cCI6MTU3NDM2NjExOX0.qv7nUI3i5kSWpWZuC1IDpdFJVYQofCYLXFPK7snN8Vc'
 const app = express()
 
 app.use(cors())
