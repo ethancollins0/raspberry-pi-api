@@ -1,14 +1,4 @@
-const express = require('express')
-const cors = require('cors')
-const bodyParser = require('body-parser')
-
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMCwicGlfaWQiOjYyLCJpYXQiOjE1NzE3NzQxMTksImV4cCI6MTU3NDM2NjExOX0.qv7nUI3i5kSWpWZuC1IDpdFJVYQofCYLXFPK7snN8Vc'
-const app = express()
-
-app.use(cors())
-app.use(bodyParser.urlencoded())
-app.use(bodyParser.json())
-
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMCwicGlfaWQiOjE1MywiaWF0IjoxNTcxOTM5NTA4LCJleHAiOjE1NzQ1MzE1MDh9.cOVpLv1IvPWibYv2poTnBcFAgDt9mSq6g0OI-KqyPtI'
 const BASE_URL = 'https://capstone-node-backend.herokuapp.com'
 
 
