@@ -1,4 +1,4 @@
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMCwicGlfaWQiOjE1MywiaWF0IjoxNTcxOTM5NTA4LCJleHAiOjE1NzQ1MzE1MDh9.cOVpLv1IvPWibYv2poTnBcFAgDt9mSq6g0OI-KqyPtI'
+const token = ''
 const BASE_URL = 'https://capstone-node-backend.herokuapp.com'
 
 
