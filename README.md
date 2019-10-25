@@ -42,8 +42,8 @@ Uses a 4 channel relay, so more pumps could be added to care for a larger number
 - [Moisture Sensor with AD Converter and Jumper Wires](https://www.amazon.com/gp/product/B071F4RDHY/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - [SD Card](https://www.amazon.com/gp/product/B073K14CVB/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1)
 
-
-
+## Wiring
+- currently creating the images / guide to wire the hardware, please allow 24-48 hours
 
 ## Contributing
 Please feel free to open a pull request or report any bugs, thanks!
