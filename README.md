@@ -24,7 +24,7 @@ watered by the pi using WebSockets.
 ##### [Raspberry Pi](https://github.com/ethancollins0/raspberry-pi-api)
 - Python
 - Node.js
-- Socket.io
+- Socket.io-client
 
 ## Features
 Uses Socket.io to create a connection with the Node.js backend, and sends data based on soil moisture. User can easily add a pi
@@ -43,7 +43,7 @@ Uses a 4 channel relay, so more pumps could be added to care for a larger number
 - [SD Card](https://www.amazon.com/gp/product/B073K14CVB/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1)
 
 ## Wiring
-- currently creating the images / guide to wire the hardware, please allow 24-48 hours
+- currently creating the images / guide to wire the hardware.
 
 ## Contributing
 Please feel free to open a pull request or report any bugs, thanks!
